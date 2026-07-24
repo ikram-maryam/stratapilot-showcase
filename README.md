@@ -8,16 +8,16 @@ StrataPilot AI is an enterprise-grade, AI-powered back-office platform built to 
 ##  Platform Preview
 
 ### 1. Landing & Overview Portal
-![Landing Page](Screenshot_24-7-2026_202637_localhost.jpg)
+![Landing Page](Screenshot_24-7-2026_202637_localhost.jpeg)
 
 ### 2. Main Dashboard Metrics
-![Dashboard Overview](Screenshot_24-7-2026_201146_localhost.jpg)
+![Dashboard Overview](Screenshot_24-7-2026_201146_localhost.jpeg)
 
 ### 3. Revenue & Levy Follow-up
-![Invoices Tracking](Screenshot_24-7-2026_202333_localhost.jpg)
+![Invoices Tracking](Screenshot_24-7-2026_202333_localhost.jpeg)
 
 ### 4. Strata Finance Inbox
-![Finance Inbox](Screenshot_24-7-2026_2022_localhost.jpg)
+![Finance Inbox](Screenshot_24-7-2026_2022_localhost.jpeg)
 
 ---
 
